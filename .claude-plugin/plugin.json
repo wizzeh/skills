@@ -1,0 +1,8 @@
+{
+  "name": "ellies-skills",
+  "description": "Ellie's frontend and nix environment standards",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ellie"
+  }
+}

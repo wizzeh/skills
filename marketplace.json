@@ -1,0 +1,14 @@
+{
+  "name": "ellies-marketplace",
+  "owner": {
+    "name": "Ellie"
+  },
+  "plugins": [
+    {
+      "name": "ellies-skills",
+      "source": ".",
+      "description": "Ellie's frontend and nix environment standards",
+      "version": "1.0.0"
+    }
+  ]
+}
