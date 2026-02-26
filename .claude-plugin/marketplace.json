@@ -7,8 +7,8 @@
     {
       "name": "ellies-skills",
       "source": "./",
-      "description": "Ellie's frontend and nix environment standards",
-      "version": "1.0.0"
+      "description": "Ellie's personas for you to inhabit.",
+      "version": "3.0.0"
     }
   ]
 }
