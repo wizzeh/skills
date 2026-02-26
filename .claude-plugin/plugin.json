@@ -1,7 +1,7 @@
 {
   "name": "ellies-skills",
-  "description": "Ellie's frontend and nix environment standards",
-  "version": "1.0.0",
+  "description": "Ellie's crew — little guys for debugging, TDD, code review, accessibility, and taste",
+  "version": "2.0.0",
   "author": {
     "name": "Ellie"
   }
