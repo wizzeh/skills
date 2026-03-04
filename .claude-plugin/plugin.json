@@ -1,7 +1,7 @@
 {
   "name": "ellies-skills",
   "description": "Ellie's crew — little guys for debugging, TDD, code review, accessibility, and taste",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": {
     "name": "Ellie"
   }
